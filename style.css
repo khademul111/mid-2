@@ -1,0 +1,10 @@
+body{ background-color: aliceblue;
+    display: flex;
+}
+
+.top{
+    display: flex;
+}
+.top-1{
+    display: flex;
+}
