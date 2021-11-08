@@ -26,3 +26,32 @@ body{ background-color: aliceblue;
 .mid{
     display: flex;
 }
+
+.mid-1{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    margin-right: 80px;
+}
+.bottom{
+    display: flex;
+    align-content: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.bottom-1{
+    border: solid black 1px;
+    padding-left: 30px;
+}
+.bottom-2{
+    border: solid black 1px;
+    padding-left: 30px;
+}
+.bottom-3{
+    border: solid black 1px;
+    padding-left: 30px;
+}
+.bottom-4{
+    border: solid black 1px;
+    padding-left: 30px;
+}
