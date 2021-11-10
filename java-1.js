@@ -36,8 +36,8 @@ function process () {
     document.getElementById('nameBox').value = '' ; 
     document.getElementById('ageBox').value = '' ; 
     document.getElementById('month-salary').value = '' ; 
-    if( total >= 90){
-        p5.innerText ="thank you";
-    }
+    
+    p5.innerText =" ***thank you!****";
+    
 
 }

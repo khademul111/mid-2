@@ -142,5 +142,9 @@ body{ background-color: aliceblue;
 .container{
     
     display: flex;
-    align-content: center;
+    margin-top: 50px;
+    margin-left:350px ;
+}
+.right-div{
+    margin-left: 80px;
 }
