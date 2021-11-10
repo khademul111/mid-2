@@ -48,8 +48,12 @@ body{ background-color: aliceblue;
     
     
 }
+.mid-1 a{
+    text-decoration: none;
+}
 .p1{
     background-color: rgb(154, 236, 154);
+    
     border-radius: 15px ;
     padding-top: 5px;
     padding-bottom: 5px;
@@ -134,4 +138,9 @@ body{ background-color: aliceblue;
     padding-left: 20px;
     padding-right: 20px;
     box-shadow: grey 4px 2px;
+}
+.container{
+    
+    display: flex;
+    align-content: center;
 }
