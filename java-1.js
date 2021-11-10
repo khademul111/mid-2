@@ -37,7 +37,7 @@ function process () {
     document.getElementById('ageBox').value = '' ; 
     document.getElementById('month-salary').value = '' ; 
     
-    p5.innerText =" ***thank you!****";
+    p5.innerText ="      ***thank you!****";
     
 
 }
